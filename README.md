@@ -17,6 +17,7 @@
 - Microcontroller- Arduino Uno
 - Microprocessor- Raspberry Pi 3 (For better results use Google Coral)
 - Camera- Pi Camera
+- Sensor- Ultrasonic
 ### Software:
 - Technology- Machine Learning
 - Programming language- Python 3
