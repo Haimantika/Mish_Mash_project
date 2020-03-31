@@ -21,6 +21,9 @@
 - Technology- Machine Learning
 - Programming language- Python 3
 - Dependencies Used- 
+ - Tensorflow
+ - Inception
+ - Azure object detection (for future use)
 
 #### DataSet- 
 - The folder named 'training_dataset' consists of the datas we have used to train our model. 
@@ -36,3 +39,4 @@ Kudos! Your bot is now ready to perform.
 
 
 ### Contributors-[Haimantika Mitra](https://github.com/Haimantika) :woman: [Tanmoy Bhowmick](https://github.com/chingri) :man:
+
