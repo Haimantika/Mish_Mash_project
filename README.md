@@ -25,7 +25,6 @@
 
 #### DataSet- 
 - The folder named 'dataset' consists of the datas we have used to train our model. 
-- n- contains the negative(anything apart from the training images) images.
-- p- contains images of the plastic bottles(the object we want our model to detect).
+
 
 ### Contributors- https://github.com/Haimantika :woman: https://github.com/chingri :man:
