@@ -10,7 +10,7 @@
 ---
 ## Uniqueness, strategy, affordability: :pushpin:
 - The main technologies used are computer vision, artificial intelligence, and machine learning. Through proper training and testing an algorithm will be created that will make the bot pick trash around it.The idea is new, and no such product already exists. It will be very helpful as it will reduce the huge man-power which is otherwise required for frequent cleaning. It will also ensure that biodegradable and non-biodegradable wastes are not mixed, which is a huge problem, because clearly the ‘green and black dustbin’ strategy used by our municipality wasn’t effective. This bot would act as a solution to this problem, as it can easily distinguish, with very less chances of error. A small bot that can work wonders, won’t come with a huge price tag. It will be affordable, and we shall try to make the bot using discarded metal, which will further cut down the cost.
-
+---
 ## Technology Stack::scroll:
 ### Hardware:
 - Microcontroller- Arduino Uno
@@ -37,6 +37,6 @@ Bash train.sh
 - Run the program run_pi.py.
 Kudos! Your bot is now ready to perform.
 
-
+---
 ### Contributors-[Haimantika Mitra](https://github.com/Haimantika) :woman: [Tanmoy Bhowmick](https://github.com/chingri) :man:
 
