@@ -14,7 +14,7 @@
 
 ## Technology Stack::scroll:
 ### Hardware:
-- Microntroller- Arduino Uno
+- Microcontroller- Arduino Uno
 - Microprocessor- Raspberry Pi 3 (For better results use Google Coral)
 - Camera- Pi Camera
 ### Software:
